@@ -1,9 +1,9 @@
 # Desafio2
 
-Olá, seja bem vindo a sua lista de contatos!
+OlÃ¡, seja bem vindo a sua lista de contatos!
 
-Para executar a sua lista de contatos, você deve baixar o aquivo ListaContato.py;
+Para executar a sua lista de contatos, vocÃª deve baixar o aquivo ListaContato.py;
 
-Após baixar, execute-o
+ApÃ³s baixar, execute-o no compilador python de sua escolha!
 
 Aproveite!
